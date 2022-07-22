@@ -117,7 +117,7 @@ const PurchaseWrapper = styled.div`
         background-color: orangered;
     }
     @media (max-width: 450px){
-        margin: 10px 0;
+        margin: 20px 0;
     }
 `;
 
